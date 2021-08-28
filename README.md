@@ -17,7 +17,7 @@ From 1896 through 2016, this Streamlit Web Application contains all of the data 
 [Olympics Dataset till 2016] https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 
 ### Checkout this project
-Live Demo: http://www.olympic-data.ml
+Live Demo: https://www.olympic-data.ml
 
 ### Contact me
 Email: [emailme@mn-tk-nwr.tech](mailto:emailme@mn-tk-nwr.tech)
